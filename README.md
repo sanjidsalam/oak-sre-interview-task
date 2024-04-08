@@ -8,6 +8,8 @@ The script is written in JavaScript, and the Node runtime is used to execute it.
 
 You must have [Node installed](https://nodejs.org/en/download) on your machine.
 
+Check out the code, and install the dependencies with `npm install`.
+
 ## Usage
 
 - To test `npm test`
