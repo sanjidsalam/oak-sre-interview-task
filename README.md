@@ -2,7 +2,7 @@
 
 A technical exercise for SRE interviews, exploring coding approach and API interactions.
 
-You will need to use the GithHub API, specifically the [https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#list-repository-issues](List repository issues) endpoint. Feel free to use [https://github.com/octokit/octokit.js](Octokit.js) or [https://github.com/PyGithub/PyGithub](PyGithub).
+You will need to use the GithHub API, specifically the [List repository issues](https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#list-repository-issues) endpoint. Feel free to use [Octokit.js](https://github.com/octokit/octokit.js) or [PyGithub](https://github.com/PyGithub/PyGithub).
 
 ## Task
 
