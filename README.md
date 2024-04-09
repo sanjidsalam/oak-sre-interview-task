@@ -21,7 +21,7 @@ For a given public repository on GitHub:
 
 Feel free to organise your code as best you see fit.
 
-If you'd prefer to write in Javascript, there's some boilerplate code for you in the `/js` directory, or if Python's your thing, head to `/python`.
+If you'd prefer to write in Javascript, there's some boilerplate code for you in the `/js` directory, if Python's your thing, head to `/python`, or if you prefer shell `/sh`.
 
 ## Testing
 
