@@ -1,5 +1,7 @@
 # Interview task
 
+**Please clone this repo to your own GitHub account, or if you don't have one, just check it out locally, but in that case please don't push the results**
+
 A technical exercise for SRE interviews, exploring coding approach and API interactions.
 
 You can use JavaScript, Python, or shell to complete this task. All the tasks require you have [Git](https://git-scm.com/downloads) installed on your machine.
