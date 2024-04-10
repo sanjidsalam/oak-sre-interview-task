@@ -1,4 +1,14 @@
-# Task: python
+# Task: Python
+
+A technical exercise for SRE interviews, exploring coding approach and API interactions.
+
+The script is written in Python3, and the Python3 runtime is used to execute it.
+
+## Pre-requisites
+
+You must have [Python3](https://www.python.org/downloads/) and [Git](https://git-scm.com/downloads) on your machine.
+
+Check out the code, and run the installation steps as listed below.
 
 ## Getting started
 
