@@ -6,4 +6,5 @@
 - run `. env/bin/activate` to activate the environment
 - run `pip install -r requirements.txt` to install dependencies
 - run `python main.py` to run the script
- 
+
+To test functions, import them into `test_main.py` and run `pytest`
