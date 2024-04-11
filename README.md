@@ -6,7 +6,7 @@ A technical exercise for SRE interviews, exploring coding approach and API inter
 
 You can use JavaScript, Python, or shell to complete this task. All the tasks require you have [Git](https://git-scm.com/downloads) installed on your machine.
 
-You will need to use the GithHub API, specifically the [List repository issues](https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#list-repository-issues) endpoint. Feel free to use [Octokit.js](https://github.com/octokit/octokit.js) or [PyGithub](https://github.com/PyGithub/PyGithub).
+You will need to use the GitHub API, specifically the [List repository issues](https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#list-repository-issues) endpoint. Feel free to use [Octokit.js](https://github.com/octokit/octokit.js) or [PyGithub](https://github.com/PyGithub/PyGithub).
 
 ## Task
 
