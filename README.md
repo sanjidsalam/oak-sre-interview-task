@@ -12,10 +12,11 @@ You will need to use the GitHub API, specifically the [List repository issues](h
 
 For the public [Oak Web Application repository on GitHub](https://github.com/oaknational/Oak-Web-Application/):
 
-1. Write a function which fetches and returns the repo's issues, as an object of the form `{ open: [], closed: [] }`.
-2. Write a function which takes a list of issues, and returns the issue with the most comments.
-3. Write a function which takes a list of issues, and returns a list of the top 3 posters (users) of these issues.
-4. Write a function which returns some health metrics for the repo. This could include:
+1. Write a function which fetches and returns the repo's issues, as an object of the form `{ open: [], closed: [] }` (if using Javascript use `per_page=100` parameter to speed up fetching all the data)
+2. Set up a classic token in Github and use that to connect as an authenticated user
+3. Write a function which takes a list of open issues, and returns any issue with comments from a non bot user.
+4. Write a function which takes a list of open issues, and returns a list of posters (users) and how many times they have commented in total.
+5. Write a function which returns some health metrics for the repo. This could include:
    - average time taken to close issues
    - open vs closed issue ratio
    - number of issues with no comments
